@@ -1,28 +1,10 @@
-# Adonis API application
+# Todolist
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Projeto feito para fins de aprendizado, totalmento feito com Javascript utilizando o AdonisJS no backend, criando a API e o sistema de Autenticação e com o React para criar a interface de forma dinamica utilizando o conceito de single page aplication.
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+No Frontend foram utilizadas as tecnologias:
 
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+1_ NodeJS,
+2_ Adonis JS,
+3_ JWT,
+4_ SQLite,
